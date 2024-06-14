@@ -5,7 +5,7 @@ getBtn = document.querySelector("form button"),
 amount = document.querySelector(".amount input"),
 exchangeRateText = document.querySelector(".message"),
 exchangeIcon = document.querySelector(".dropdown .icon"),
-apiKey = "9d159b9459bccb2aae9e45e0";
+apiKey = "99a0aec004527b1a155623da";
 
 
 
